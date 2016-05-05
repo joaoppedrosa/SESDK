@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SESDK</string>
+    <string name="INIT_ERROR" translatable="false">Error</string>
+    <string name="INIT_ERROR_DEVICE_NOT_SUPPORTED" translatable="false">Failed to initialize Vuforia. This device is not supported.</string>
+    <string name="INIT_ERROR_NO_CAMERA_ACCESS" translatable="false">Failed to initialize Vuforia. Camera not accessible</string>
+    <string name="INIT_LICENSE_ERROR_MISMATCH_KEY" translatable="false">Vuforia App key is not valid for this product. Please get a valid key, by logging into your account at developer.vuforia.com and choosing the right product type during project creation.</string>
+    <string name="INIT_LICENSE_ERROR_MISSING_KEY" translatable="false">Vuforia App key is missing. Please get a valid key, by logging into your account at developer.vuforia.com and creating a new project.</string>
+    <string name="INIT_LICENSE_ERROR_INVALID_KEY" translatable="false">Invalid Key used. Please make sure you are using a valid Vuforia App Key.</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_TRANSIENT" translatable="false">Unable to contact server. Please try again later.</string>
+    <string name="INIT_LICENSE_ERROR_NO_NETWORK_PERMANENT" translatable="false">No network available. Please make sure you are connected to the Internet.</string>
+    <string name="INIT_LICENSE_ERROR_CANCELED_KEY" translatable="false">This app license key has been canceled and may no longer be used. Please get a new license key.</string>
+    <string name="INIT_LICENSE_ERROR_PRODUCT_TYPE_MISMATCH" translatable="false">Vuforia App key is not valid for this product. Please get a valid key, by logging into your account at developer.vuforia.com and choosing the right product type during project creation.</string>
+    <string name="INIT_LICENSE_ERROR_UNKNOWN_ERROR" translatable="false">Failed to initialize Vuforia.</string>
+
+    <string name="not_connected" translatable="false">GoogleApiClient no yet connected. Try again.</string>
+    <string name="geofence_not_available" translatable="false">Geofence service is not available now</string>
+    <string name="geofence_too_many_geofences" translatable="false">Your app has registered too many geofences</string>
+    <string name="geofence_too_many_pending_intents" translatable="false"> You have provided too many PendingIntents to the addGeofences() call</string>
+    <string name="unknown_geofence_error" translatable="false"> Unknown error: the Geofence service is not available now</string>
+    <string name="geofence_transition_invalid_type" translatable="false">Geofence transition error: invalid transition type %1$d</string>
+    <string name="geofence_transition_entered" translatable="false">Entered</string>
+    <string name="geofence_transition_exited" translatable="false">Exited</string>
+    <string name="unknown_geofence_transition" translatable="false">Unknown Transition</string>
+</resources>

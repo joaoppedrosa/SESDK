@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SESDKSample</string>
+    <string name="geofencing_message">turn on the location\n\nregist your geofencing\n\ncreate and add your service (extending GeofencingIntentService.class) to androidmanifest.xml\n\n wait for the notification</string>
+    <string name="beacons_message">turn on the bluetooth\n\ncreate your regions \n\nstart monitoring or ranging\n\nsee the logs to see the information</string>
+    <string name="payment_message">create your credit car\n\ncreate a stripe token with a valid credit card</string>
+    <string name="indooratlas_key" translatable="false">ef51d1cc-951a-4036-955f-7e7cd1e55fe9</string>
+    <string name="indooratlas_secret" translatable="false">HWRfw0QA2PvczzUHMonRbFOLoTE!0a!1gFGjfpDe7HAkbPKY(TTnZVct5NKO9wfhXQeFpaWunY2mjuUWXHd%!55qcTdvNSm)iNe3X0lCH8tFD)m%iYhz74r5F!07(Mlj</string>
+</resources>
