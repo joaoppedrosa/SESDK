@@ -1,4 +1,9 @@
 
+SESDK
+-------------------
+
+SDK that make easy the integration of multiple mobile technologies such as augmented reality, indoor location, beacons , geofencing and payements
+
 How do I use SESDK?
 -------------------
 
